@@ -1,0 +1,7 @@
+.status.on {
+  display: block;
+}
+
+.status.off {
+  display: none;
+}
